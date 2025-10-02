@@ -120,13 +120,6 @@ const slippageTolerance = 0.5;    // Maximum slippage %
 - `raydiumSwap.ts` - Swap execution logic
 - Pool configuration files for supported tokens
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## ⚠️ Disclaimer
-
-**This software is for educational and research purposes only. Trading cryptocurrencies involves substantial risk of loss. Past performance does not guarantee future results. Use at your own risk.**
 
 ## 🤝 Contributing
 
