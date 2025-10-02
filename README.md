@@ -17,7 +17,7 @@
 
 <div align="center">
 
-<video src="https://github.com/user-attachments/assets/xtoshi-arbitrage.mp4" 
+<video src="https://github.com/user-attachments/assets/1ce8c52a-828d-4849-a902-5ed4a320330c" 
     controls 
     muted 
     style="max-height:640px; width:100%; border-radius: 10px;"> </video>
