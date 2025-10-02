@@ -27,7 +27,7 @@
 </div>
 
 ## Screenshot
-<img width="1200" alt="Transaction Screenshot 1" src="https://github.com/user-attachments/assets/xtoshi-arbitrage.jpg" />
+<img width="1200" alt="Transaction Screenshot 1" src="https://github.com/user-attachments/assets/13d34bf9-8063-48a6-bb88-81e1888e018e" />
 
 ## 🌟 Features
 
